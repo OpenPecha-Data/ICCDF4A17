@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W3CN4982
   title: བྱང་ཆུབ་ལམ།
-  volume: ''
+  volume:
+    e96149d000504fbc85dc46d2378383f3:
+      image_group_id: I3CN4984
+      title: Volume 1 of byang chub lam/
+      volume_number: 1
+      total_pages: 183
   author: ''
+ebook_metadata:
+  title: བྱང་ཆུབ་ལམ།
+  author: ''
+  sku: P000424
+  cover: cover.jpg
+  layers:
+  - pagination
